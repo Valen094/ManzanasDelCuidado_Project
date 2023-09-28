@@ -1,0 +1,54 @@
+.contCard{
+    background-color: #F4F4F4;
+    align-items: center;
+    
+}
+
+.contcard2{
+    margin-left: 10%;
+    margin-top: 40px;
+}
+
+.contcard2 p{
+    width: 400px;
+}
+
+.contcard2 h1{
+    color: #70AE3E;
+}
+
+.lorem{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.volver{
+    color: white;
+    background-color: #70AE3E;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 15%;
+    border: 1px solid #70AE3E;
+}
+
+.iniciar{
+    margin-left: 30px;
+    color: white;
+    background-color: #70AE3E;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.cont{
+    background-color: #F4F4F4;
+    border: 2px solid #B02828;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding-bottom: 30px;
+    border-radius: 20px;
+}

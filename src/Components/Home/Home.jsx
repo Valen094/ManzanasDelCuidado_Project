@@ -58,7 +58,7 @@ export const Home = () => {
             <p>Aprende</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
 
           <div className='carta'>
@@ -66,7 +66,7 @@ export const Home = () => {
             <p>Emprende</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
 
           <div className='carta'>
@@ -74,7 +74,7 @@ export const Home = () => {
             <p>Emplearse</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
 
         </div>
@@ -85,7 +85,7 @@ export const Home = () => {
             <p>Asesorias</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
 
           <div className='carta'>
@@ -93,7 +93,7 @@ export const Home = () => {
             <p>Descansar</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
 
           <div className='carta'>
@@ -101,7 +101,7 @@ export const Home = () => {
             <p>Aprende</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
-            <a href="/mapa">Ver más</a>
+            <a href="/cardmapa">Ver más</a>
           </div>
         </div>
       </section>

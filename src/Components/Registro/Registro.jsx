@@ -21,30 +21,30 @@ export const Registro = () => {
                     <div className='contform'>
                         <div className='form1'>
                             <label htmlFor="">Documento</label>
-                            <input type="text" />
+                            <input type="text" id='documento'/>
 
                             <label htmlFor="">Nombres</label>
-                            <input type="text" />
+                            <input type="text" id='nombre'/>
 
                             <label htmlFor="">Apellidos</label>
-                            <input type="text" />
+                            <input type="text" id='apellido'/>
 
                             <label htmlFor="">Contraseña</label>
-                            <input type="password" />
+                            <input type="password" id='contraseña'/>
                         </div>
                         <div className='form1'>
 
                             <label htmlFor="">Correo</label>
-                            <input type="text" />
+                            <input type="text" id='correo'/>
 
                             <label htmlFor="">Dirección</label>
-                            <input type="text" />
+                            <input type="text" id='direccion'/>
 
                             <label htmlFor="">Ocupación</label>
-                            <input type="text" />
+                            <input type="text" id='ocupacion'/>
 
                             <label htmlFor="">Telefono</label>
-                            <input type="text" />
+                            <input type="text" id='telefono'/>
                         </div>
                     </div>
                         <p className='cuenta'>¿Ya tienes una cuenta? Inicia sesión <a href="">AQUÍ</a></p>
