@@ -1,0 +1,104 @@
+
+.tituloHeaderinicio{
+    display: flex;
+    align-items: center;
+    color: #639a36;
+}
+
+.tituloHeaderinicio hr{
+    height: 60px;
+    border: 2px solid #639a36;
+    margin-right: 20px;
+}
+
+
+/**/
+
+.sectioninicio{
+    background-color: #F4F4F4;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("/Img/HOJAS2.png");
+    background-repeat: no-repeat;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: #639a36;
+    margin-top: 20px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.form label{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.form input{
+    border-radius: 20px;
+    padding: 10px 20px;
+    border: 1px solid white;
+    width: 250px;
+}
+
+.form h1{
+    text-align: center;
+    color: white;
+}
+
+.contraseña{
+    margin-top: 20px;
+    color: white;
+}
+
+.contraseña a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.contraseña a:hover{
+    text-decoration: underline;
+}
+
+.iniciarsesionboton{
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 7px 15px;
+    margin-top: 25px;
+    text-decoration: none;
+    color: #639a36;
+    font-weight: 600;
+    border-radius: 1px solid #639a36;
+
+}
+
+.iniciarsesionboton button{
+}
+
+.iniciarsesionboton:hover{
+    background-color: #F4F4F4;
+    border-radius: 1px solid #639a36;
+
+}
+
+.equis{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: -25px;
+    margin-left: -20px;
+}
+
+

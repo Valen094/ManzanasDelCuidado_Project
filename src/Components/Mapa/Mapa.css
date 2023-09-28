@@ -1,0 +1,83 @@
+.regresarmapa{
+    margin-left: 40PX;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.regresarmapa a{
+    color: #70AE3E;
+    text-decoration: none;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.regresarmapa a:hover{
+    text-decoration: underline;
+}
+
+.contenedormapa{
+    background-color: #F4F4F4;
+}
+
+.contenedorinfo{
+    align-items: center;
+    text-align: center;
+}
+
+.contenedorinfo h1{
+    color: #70AE3E;
+}
+
+.contenedorinfo p{
+    color: #B02828;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contenedorinfo h2{
+    font-size: 20px;
+}
+
+.contenedorinfo .p2{
+    color: black;
+    padding-bottom: 40px;
+}
+
+.contenedorinfo img{
+    border-radius: 20px;
+    border: 3px solid #B02828;
+    margin-bottom: 70px;
+}
+
+.manzana1{
+    position: absolute;
+    top: 0;
+    margin-left: 49%;
+    margin-top: 49%;
+}
+
+.manzana2{
+    position: absolute;
+    top: 0;
+    margin-left: 38%;
+    margin-top: 46%;
+}
+
+.manzana3{
+    position: absolute;
+    top: 0;
+    margin-left: 30%;
+    margin-top: 60%;
+}
+
+.manzana4{
+    position: absolute;
+    top: 0;
+    margin-left: 58%;
+    margin-top: 29%;
+}
+
+.ventana{
+    background-color: aqua;
+}
+

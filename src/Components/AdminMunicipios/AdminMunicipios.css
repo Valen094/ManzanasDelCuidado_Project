@@ -1,0 +1,101 @@
+.contmunicipios{
+    background-color: #F4F4F4;
+    background-image: url('/Img/HOJAS2.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+.tabla{
+    display: flex;
+    justify-content: center;
+}
+
+.h1{
+    color: #70AE3E;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+.botonesadmin{
+    display: flex;
+    margin-left: 41%;
+    align-items: center;
+}
+
+.botonesadmin input{
+    margin-right: 10px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 20px;
+    background-color: #B02828;
+    border: 1px solid #B02828;
+    color: white;
+}
+
+.botonesadmin button{
+    margin-left: 30px;
+    margin-right: 50px;
+    background-color: #B02828;
+    border: 1px solid #B02828;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+}
+
+.botonesadmin img{
+    padding: 30px;
+    margin-left: -28%;
+}
+
+.tabla tr{
+    background-color: #ffffff;
+}
+
+.tabla tr td{
+    padding: 10px 30px;
+}
+
+.default{
+    background-color: #70AE3E;
+}
+
+.botoneseditar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: 39%;
+    padding-top: 30px;
+}
+
+.botoneseditar button{
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: 2px solid #70AE3E;
+    font-weight: 600;
+    background-color: white;
+}
+
+.botoneseditar button:hover{
+    background-color: #70AE3E;
+    color: white;
+}
+
+.titulos{
+    font-weight: 700;
+}
+
+.regresaradmin{
+    color: #70AE3E;
+    margin-left: 25%;
+    position: absolute;
+    margin-top: 10%;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.regresaradmin:hover{
+    text-decoration: underline;
+}
+

@@ -1,0 +1,13 @@
+footer{
+    height: 120px;
+    background-color: #70AE3E;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.redes{
+    margin-left: 15px;
+    margin-right: 15px;
+}
