@@ -11,10 +11,10 @@ export const Mapa = () => {
                 <div className='regresarmapa'>
                     <a href="/">REGRESAR</a>
                 </div>
-                <a href="/cardmapa"><img src="/Img/Logo.webp" alt="" width={40} height={40} className='manzana1' /></a>
-                <a href="/cardmapa"><img src="/Img/Logo.webp" alt="" width={40} height={40} className='manzana2' /></a>
-                <a href="/cardmapa"><img src="/Img/Logo.webp" alt="" width={40} height={40} className='manzana3' /></a>
-                <a href="/cardmapa"><img src="/Img/Logo.webp" alt="" width={40} height={40} className='manzana4' /></a>
+                <a href="/cardmapa"><img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={40} height={40} className='manzana1' /></a>
+                <a href="/cardmapa"><img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={40} height={40} className='manzana2' /></a>
+                <a href="/cardmapa"><img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={40} height={40} className='manzana3' /></a>
+                <a href="/cardmapa"><img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={40} height={40} className='manzana4' /></a>
 
                 <div className='contenedorinfo'>
                     <h1>ENCUENTRA TUS MANZANAS</h1>
@@ -23,7 +23,7 @@ export const Mapa = () => {
                     <p className='p2'>!Encuentra los sitios mas cercanos!</p>
 
                     <div>
-                        <img src="/Img/map.png" alt="" />
+                        <img src="https://i.ibb.co/M9gbdPc/map.png" alt="" />
                     </div>
 
                 </div>

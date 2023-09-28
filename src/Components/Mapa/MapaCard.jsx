@@ -1,5 +1,4 @@
 import React from 'react'
-import { Header } from '../Header/Header'
 import './MapaCard.css'
 
 export const MapaCard = () => {
@@ -7,7 +6,7 @@ export const MapaCard = () => {
         <>
             <header>
                 <div className='tituloHeader'>
-                    <img src="public/Img/Logo.webp" alt="" width={100} height={100} />
+                    <img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={100} height={100} />
                     <hr />
                     <div>
                         <h1>MANZANITAS</h1>

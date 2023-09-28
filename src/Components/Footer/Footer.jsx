@@ -15,8 +15,8 @@ export const Footer = () => {
                     </div>
                 </div>
                 <div>
-                    <a className='redes' href=""><img src="/Img/insta.webp" alt="" width={50} height={50}/></a>
-                    <a className='redes' href=""><img src="/Img/facebook.png" alt="" width={50} height={50}/></a>
+                    <a className='redes' href=""><img src="https://i.ibb.co/dj1Nvw4/Googlr.webp" alt="" width={50} height={50}/></a>
+                    <a className='redes' href=""><img src="https://i.ibb.co/NsYrb1w/facebook.png" alt="" width={50} height={50}/></a>
                 </div>
 
             </footer>

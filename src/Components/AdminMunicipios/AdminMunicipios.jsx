@@ -19,7 +19,7 @@ export const AdminMunicipios = () => {
         <>
             <header>
             <div className='tituloHeader'>
-                    <img src="public/Img/Logo.webp" alt="" width={100} height={100} />
+                    <img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={100} height={100} />
                     <hr />
                     <div>
                         <h1>MANZANITAS</h1>
@@ -30,7 +30,7 @@ export const AdminMunicipios = () => {
             <div className='contmunicipios'// onClick={()=>{setChange(!change)}}
 
             >
-                    <a className='regresaradmin' href="">Regresar</a>
+                    <a className='regresaradmin' href="/iniciada">Regresar</a>
                 <div className='botonesadmin'>
 
                     <h1 className='h1'>MUNICIPIOS</h1>

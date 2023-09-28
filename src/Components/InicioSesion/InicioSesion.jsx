@@ -9,7 +9,7 @@ export const InicioSesion = () => {
 
 
                 <div className='tituloHeaderinicio'>
-                    <img src="public/Img/Logo.webp" alt="" width={100} height={100} />
+                    <img src="https://i.ibb.co/3fkg0nS/Logo.webp" alt="" width={100} height={100} />
                     <hr />
                     <div>
                         <h1>MANZANITAS</h1>
@@ -33,7 +33,7 @@ export const InicioSesion = () => {
                     
                 </div>
 
-                <button className='iniciarsesionboton' href="" type='submit'>Iniciar sesión</button ><br />
+                <a className='iniciarSesion' href="/iniciada">INICIAR SESION</a>
                 </div>
 
 

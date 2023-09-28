@@ -5,7 +5,9 @@ import { InicioSesion } from './Components/InicioSesion/InicioSesion'
 import { Registro } from './Components/Registro/Registro'
 import { Mapa } from './Components/Mapa/Mapa'
 import { MapaCard } from './Components/Mapa/MapaCard'
-// import { Municipios } from './Components/Municipios/Municipios'
+import { SesionIniciada } from './Components/SesionIniciada/SesionIniciada'
+import { Perfil } from './Components/Perfil/Perfil'
+import { AdminMunicipios } from './Components/AdminMunicipios/AdminMunicipios'
 
 
 function App() {
@@ -17,6 +19,9 @@ function App() {
       <Route path='/registro' element={<Registro/>}></Route>
       <Route path='/mapa' element={<Mapa/>}></Route>
       <Route path='/cardmapa' element={<MapaCard/>}></Route>
+      <Route path='/iniciada' element={<SesionIniciada/>}></Route>
+      <Route path='/perfil' element={<Perfil/>}></Route>
+      <Route path='/municipios' element={<AdminMunicipios/>}></Route>
     </Routes>
 
 

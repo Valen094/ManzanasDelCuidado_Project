@@ -19,21 +19,17 @@ export const Home = () => {
     <>
       <Header />
 
-      {/* <button onClick={lista()}>info</button> */}
-
-
-
       <section className='section1'>
         <div>
-          <img src="/Img/HOJAS2.png" alt="" />
+          <img src="https://i.ibb.co/Gnrrfh0/HOJAS2.png" alt="" />
         </div>
 
         <div className='titulosHome'>
           <h1>LAS MUJERES QUE NO REQUIEREN DE LA APROBACIÓN DE NADIE </h1>
           <p>Se vuelven la persona más temida del planeta</p>
           <div className='imagenesSection1'>
-            <img src="/Img/MujerEmprendiendo.jpeg" alt="" width={360} height={200} />
-            <img src="/Img/MujeresTrabajando.jpg" alt="" width={360} height={200} />
+            <img src="https://i.ibb.co/rb72w2R/Mujer-Emprendiendo.jpg" alt="" width={360} height={200} />
+            <img src="https://i.ibb.co/30R6nxn/Mujeres-Trabajando.jpg" alt="" width={360} height={200} />
           </div>
         </div>
       </section>
@@ -70,7 +66,7 @@ export const Home = () => {
           </div>
 
           <div className='carta'>
-            <img src="/Img/DISEÑO.jpg" alt="" />
+            <img src="https://i.ibb.co/yXh6c10/DISE-O.jpg" alt="" />
             <p>Emplearse</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
@@ -81,7 +77,7 @@ export const Home = () => {
 
         <div className='sectioncartas'>
           <div className='carta'>
-            <img src="/Img/DISEÑO.jpg" alt="" />
+            <img src="https://i.ibb.co/yXh6c10/DISE-O.jpg" alt="" />
             <p>Asesorias</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
@@ -89,7 +85,7 @@ export const Home = () => {
           </div>
 
           <div className='carta'>
-            <img src="/Img/DISEÑO.jpg" alt="" />
+            <img src="https://i.ibb.co/yXh6c10/DISE-O.jpg" alt="" />
             <p>Descansar</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
@@ -97,7 +93,7 @@ export const Home = () => {
           </div>
 
           <div className='carta'>
-            <img src="/Img/DISEÑO.jpg" alt="" />
+            <img src="https://i.ibb.co/yXh6c10/DISE-O.jpg" alt="" />
             <p>Aprende</p>
             <h2>DISEÑO GRAFICO EN 1 MES</h2>
             <p>Armenia - Cr 20 # 45 - 34</p>
@@ -109,7 +105,7 @@ export const Home = () => {
       <section className='section3'>
 
         <div>
-          <img src="/Img/MANZANA.png" alt="" width={250} height={250} />
+          <img src="https://i.ibb.co/5kT1vSC/MANZANA.png" alt="" width={250} height={250} />
         </div>
         <div>
           <h2>ENCUENTRA ESPACIOS AGRADABLES</h2>
